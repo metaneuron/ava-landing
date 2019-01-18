@@ -1,4 +1,4 @@
-# 5studios.net, API folder for Ava - Admin HTML Template Demo
+# 5studios.net, API folder for Ava Admin HTML Template Demo
 
 This API folder is just for demo purposes, it is not recommended you use the code in here as a base or standard code for production environments.
 

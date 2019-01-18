@@ -1,5 +1,5 @@
 /**
- * Title:   Ava - HTML App Landing Page - Main Javascript file
+ * Title:   Ava HTML App Landing Page - Main Javascript file
  * Author:  http://.net/user/5studiosnet
  **/
 
