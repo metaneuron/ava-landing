@@ -1,5 +1,5 @@
 /*!
- Dashcore - HTML Startup Template, v1.0
+ Ava - HTML Startup Template, v1.0
  Forms JS file
  Copyright © 2018 5Studios.net
  http://5studios.net

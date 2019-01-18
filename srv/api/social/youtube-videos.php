@@ -6,7 +6,7 @@ function sorter($key) {
     };
 }
 
-$titles = ["How DashCore can help you boost your solution", "A new way to develop for the web", "Installing and configuring DashCore template"];
+$titles = ["How Ava can help you boost your solution", "A new way to develop for the web", "Installing and configuring Ava template"];
 $ranges = ["years", "months", "days"];
 $count = count($titles);
 $videos = [];
